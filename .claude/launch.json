@@ -1,0 +1,12 @@
+﻿{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ers",
+      "runtimeExecutable": "powershell",
+      "runtimeArgs": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "C:\\Users\\RDConde\\AppData\\Local\\Temp\\claude\\6df3f246348c40e3\\7e298e48-adfe-41c0-bdde-2ccb5ef5a21a\\scratchpad\\serve.ps1", "-Root", "C:\\Users\\RDConde\\OneDrive - Leonio Group (1)\\Desktop\\ERS\\app", "-Port", "47821"],
+      "port": 47821
+    }
+  ]
+}
+
